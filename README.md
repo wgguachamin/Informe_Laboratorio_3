@@ -114,3 +114,10 @@ Es un nodo conocido como tierra por tanto nos da 0V.
 6. CONCLUSIONES
 
 7. BIBLIOGRAFÍA
+
+-	Bravo, E. (26 de Febrero de 2017). Obtenido de http://www.inacap.cl/web/material-apoyo-cedem/alumno/Electricidad/Redes-Electricas/AAI_ELSP01_GE9-METODODE-ANALISIS-Y-RESOLUCION-DE-CIRCUITOS-EN-CC.pdf 
+-	García, A. (21 de Marzo de 2021). Panama Hitek. Obtenido de http://panamahitek.com/ley-de-las-corrientes-de-kirchhoff-metodo-de-nodos/
+-	Hernandez, M. (18 de Septiembre de 2019). Obtenido de https://innovacionumh.es/Proyectos/P_19/Tema_1/UMH_07.htm
+-	Marín, A. (11 de Marzo de 2021). Obtenido de https://economipedia.com/definiciones/ley-de-ohm.html
+-	Salazar, A. (15 de Julio de 2019). Obtenido de http://wwwprof.uniandes.edu.co/~ant-sala/cursos/FDC/Contenidos/02_Leyes_de_Voltajes_y_Corrientes_de_Kirchhoffs.pdf
+
