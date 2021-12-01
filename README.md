@@ -99,6 +99,14 @@ Es un nodo conocido como tierra por tanto nos da 0V.
 
 ![image](https://user-images.githubusercontent.com/94008521/144329712-13a50ce0-1641-4ffb-bd90-9be65c5b30dd.png)
 
+3.8. SIMULACIÓN MULTISIM
+
+![image](https://user-images.githubusercontent.com/94008521/144330333-a15630a0-0dad-4101-94af-6dad5ae922b6.png)
+
+3.9. EXPERIMENTAL TINKERCAD
+
+![image](https://user-images.githubusercontent.com/94008521/144330403-2678dd13-2dbe-4358-bf7e-d9f71eb8ae07.png)
+
 4. RESPUESTA A INTERROGANTES Y CALCULO DEL ERROR
 
 5. VIDEO
