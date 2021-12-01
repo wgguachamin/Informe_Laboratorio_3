@@ -97,7 +97,7 @@ Es un nodo conocido como tierra por tanto nos da 0V.
 
 3.7. TABLA DE DATOS 
 
-
+![image](https://user-images.githubusercontent.com/94008521/144329712-13a50ce0-1641-4ffb-bd90-9be65c5b30dd.png)
 
 4. RESPUESTA A INTERROGANTES Y CALCULO DEL ERROR
 
