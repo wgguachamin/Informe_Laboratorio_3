@@ -67,6 +67,32 @@ NODO A
 
 NODO B
 
+![image](https://user-images.githubusercontent.com/94008521/144324371-f131017d-7a96-4f66-99ae-2d352b9e612c.png)
+
+NODO C
+
+![image](https://user-images.githubusercontent.com/94008521/144324383-ec405b7c-a247-4612-b3cc-02632a152526.png)
+
+NODO D
+
+- Es un nodo trivial (no genera ecuación)
+
+NODO DE REFERENCIA
+
+Es un nodo conocido como tierra por tanto nos da 0V.
+
+3.4. PLANTEAMOS EL SISTEMA DE ECUACIONES
+
+![image](https://user-images.githubusercontent.com/94008521/144324451-f9b5e703-a280-40b8-88a6-e9457bdc29cb.png)
+
+3.5. RESOLUCIÓN DEL SISTEMA DE ECUACIONES
+
+![image](https://user-images.githubusercontent.com/94008521/144325113-ac434da6-ab4a-4bb0-905a-19545a81004e.png)
+
+![image](https://user-images.githubusercontent.com/94008521/144325120-b4d0e90e-800a-434e-9a58-ecfc2efeec8e.png)
+
+3.6. POR TANTO EL VOLTAJE EN LOS NODOS B y C.
+
 
 
 4. RESPUESTA A INTERROGANTES Y CALCULO DEL ERROR
