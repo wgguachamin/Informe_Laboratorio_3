@@ -93,6 +93,10 @@ Es un nodo conocido como tierra por tanto nos da 0V.
 
 3.6. POR TANTO EL VOLTAJE EN LOS NODOS B y C.
 
+![image](https://user-images.githubusercontent.com/94008521/144326498-0ed615ed-4114-4c1d-8de8-8744b2de1909.png)
+
+3.7. TABLA DE DATOS 
+
 
 
 4. RESPUESTA A INTERROGANTES Y CALCULO DEL ERROR
