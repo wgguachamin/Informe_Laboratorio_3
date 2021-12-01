@@ -51,9 +51,23 @@ Para poder calcular en voltaje existente en cada uno de los nodos presentes se d
 
 3. EXPLICACIÓN DEL PROCEDIMIENTO
 
-MATERIAL Y EQUIPO REQUERIDO 
+3.1. MATERIAL Y EQUIPO REQUERIDO
 
 ![image](https://user-images.githubusercontent.com/94008521/144293527-77f86214-4126-401e-8ba3-1d8e009b8241.png)
+
+3.2. IDENTIFICACIÓN DE LOS NODOS
+
+![image](https://user-images.githubusercontent.com/94008521/144304043-bf3f8e49-3e95-488f-af7c-f668d5abb084.png)
+
+3.3. ECUACIONES DE ANÁLISIS DE NODOS 
+
+NODO A
+
+- Es un nodo trivial (no genera ecuación)
+
+NODO B
+
+
 
 4. RESPUESTA A INTERROGANTES Y CALCULO DEL ERROR
 
