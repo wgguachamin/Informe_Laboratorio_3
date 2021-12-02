@@ -53,7 +53,7 @@ Para poder calcular en voltaje existente en cada uno de los nodos presentes se d
 
 3.1. MATERIAL Y EQUIPO REQUERIDO
 
-![image](https://user-images.githubusercontent.com/94008521/144293527-77f86214-4126-401e-8ba3-1d8e009b8241.png)
+![image](https://user-images.githubusercontent.com/94008521/144334652-8696b2e6-7980-4213-8158-ce4ffe258a72.png)
 
 3.2. IDENTIFICACIÓN DE LOS NODOS
 
