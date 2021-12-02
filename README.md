@@ -109,8 +109,13 @@ Es un nodo conocido como tierra por tanto nos da 0V.
 
 4. RESPUESTA A INTERROGANTES Y CALCULO DEL ERROR
 
-![image](https://user-images.githubusercontent.com/93415377/144343363-df871dd7-063d-4ede-be74-c2a276461ff9.png)
+Para calcular el margen de error efectuado en cada una de las mediciones de los nodos de forma analítica, experimental y simulada se usará la siguiente fórmula de cálculo de error: 
 
+![image](https://user-images.githubusercontent.com/93960809/144347679-3faed6a3-d435-40ba-a096-fe97da157eae.png)
+
+Por tanto, el margen de error del cálculo de los voltajes presentes en los nodos es: 
+
+![image](https://user-images.githubusercontent.com/93960809/144347736-c5a0c24f-d227-4899-a025-b70bd4c75af0.png)
 
 5. VIDEO
 
