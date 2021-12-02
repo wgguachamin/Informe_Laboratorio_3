@@ -115,6 +115,36 @@ https://youtu.be/FqRkbTIK6dQ
 
 6. CONCLUSIONES
 
+
+Es muy importante el análisis completo del circuito como:
+
+•	La identificación y el análisis de los nodos presentes un circuito eléctrico, ya que, cuando al analizar el nodo de referencia que el valor del voltaje debe ser cero
+
+•	Saber los voltajes que regulan cada una de las resistencias dentro del circuito y tener claro que la corriente que entra tiene que ser igual la corriente que salen en todo el circuito
+
+•	Y además establecer el sentido de las corrientes en los nodos
+
+•	Identificar la polaridad que se presenta en cada trayectoria dentro del circuito
+
+•	Al realizar la medición de voltaje que circula por un determinado nodo se lo debe realizar en paralelo
+
+
+Seguir un procedimiento básico que nos ayude al calculo de los voltajes en cada nodo se podría resumir de la siguiente manera:
+
+•	Asignar un nodo de referencia (tierra).
+
+•	Identificar con nombres a los voltajes en los demás nodos.
+
+•	Realizar los cálculos en los nodos  que tienen una fuente de voltaje conectada al nodo de referencia, por simplicidad.
+
+•	Mediante la ley de Ohm aplicar la ley de Kirchhoff de la corriente para cada nodo.
+
+•	Los cálculos realizados se deben basar en las Leyes de ohm y Kirchoff de esta manera se obtendrán las ecuaciones equivalentes para los cálculos de corriente y voltaje.
+
+•	Obtener un sistema de ecuaciones.
+
+•	Resolver el sistema de ecuaciones resultante para la obtención de los valores de los voltajes en los nodos.
+
 7. BIBLIOGRAFÍA
 
 -	Bravo, E. (26 de Febrero de 2017). Obtenido de http://www.inacap.cl/web/material-apoyo-cedem/alumno/Electricidad/Redes-Electricas/AAI_ELSP01_GE9-METODODE-ANALISIS-Y-RESOLUCION-DE-CIRCUITOS-EN-CC.pdf 
