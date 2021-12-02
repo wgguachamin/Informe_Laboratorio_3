@@ -109,6 +109,9 @@ Es un nodo conocido como tierra por tanto nos da 0V.
 
 4. RESPUESTA A INTERROGANTES Y CALCULO DEL ERROR
 
+![image](https://user-images.githubusercontent.com/93415377/144343363-df871dd7-063d-4ede-be74-c2a276461ff9.png)
+
+
 5. VIDEO
 
 https://youtu.be/FqRkbTIK6dQ
