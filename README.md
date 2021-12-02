@@ -111,6 +111,8 @@ Es un nodo conocido como tierra por tanto nos da 0V.
 
 5. VIDEO
 
+https://youtu.be/FqRkbTIK6dQ
+
 6. CONCLUSIONES
 
 7. BIBLIOGRAFÍA
